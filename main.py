@@ -1,3 +1,6 @@
+print("beta-sorting_hat-version=2.7")
+print("___commencing___")
+
 from name_checker import name_scanner
 from sys import exit
 from sorting_hat_logic import sort
